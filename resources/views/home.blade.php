@@ -12,20 +12,20 @@
 <meta name="keywords" content="wave, creatve, portfolio, html, template, carousel, theme, agency, html5">
 
 <!-- SOCIAL MEDIA META -->
-<meta property="og:description" content="Wave | Agency & Freelancer Portfolio">
+<!-- <meta property="og:description" content="Wave | Agency & Freelancer Portfolio">
 <meta property="og:image" content="../../acrocapoeira.com/wave/preview.html">
 <meta property="og:site_name" content="WAVE">
 <meta property="og:title" content="WAVE">
 <meta property="og:type" content="website">
-<meta property="og:url" content="http://www.acrocapoeira.com/wave">
+<meta property="og:url" content="http://www.acrocapoeira.com/wave"> -->
 
 <!-- TWITTER META -->
-<meta name="twitter:card" content="summary">
+<!-- <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@WAVE">
 <meta name="twitter:creator" content="@WAVE">
 <meta name="twitter:title" content="WAVE">
 <meta name="twitter:description" content="Wave | Agency & Freelancer Portfolio">
-<meta name="twitter:image" content="../../acrocapoeira.com/wave/preview.html">
+<meta name="twitter:image" content="../../acrocapoeira.com/wave/preview.html"> -->
 
 <!-- FAVICON FILES -->
 <link href="ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
@@ -120,7 +120,7 @@
         </div>
         <!-- end col-12 -->
         <div class="col-md-3 wow fadeIn" data-wow-delay="0.05s"> <span class="numbers">1</span>
-          <h5 class="steps">Opportunity  Analysis</h5>
+          <h5 class="steps" style="white-space: nowrap;">Opportunity  Analysis</h5>
           <p>For growth of specific KPIs. </p>
         </div>
         <!-- end col-3 -->
@@ -135,7 +135,7 @@
         </div>
         <!-- end col-3 -->
         <div class="col-md-3 wow fadeIn" data-wow-delay="0.20s"> <span class="numbers">4</span>
-          <h5 class="steps">Learn & adjust</h5>
+          <h5 class="steps">Learn & Adjust</h5>
           <p>Monitor results & adjust</p>
         </div>
         <!-- end col-3 --> 

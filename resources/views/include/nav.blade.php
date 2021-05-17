@@ -15,7 +15,7 @@
           <li><a href="contact" class="transition">CONTACT</a></li>
         </ul>
       </nav>
-      <span class="copyright">© 2021 Creative X | Agency & Freelancer Portfolio</span> </div>
+      <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka</span> </div>
     <!-- end inner --> 
   </div>
   <!-- end table --> 

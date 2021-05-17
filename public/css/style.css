@@ -489,7 +489,9 @@ footer{ width:100%; float:left;}
 /* ABOUT US */
 .about-us{ width:100%; float:left; padding:100px 0;}
 .about-us h2{ font-size:90px; font-family:jaapokki; margin-left:-8px;}
-.about-us p{ line-height:24px; opacity:0.6; font-weight:300; letter-spacing:1px;}
+.about-us p{ line-height:24px; 
+	/* opacity:0.6;  */
+	font-weight:400; letter-spacing:1px;}
 .about-us h3{ font-weight:400; text-transform:uppercase; letter-spacing:3px; font-size:14px; margin-bottom:40px;}
 .about-us img{ width:100%;}
 
@@ -631,7 +633,7 @@ footer{ width:100%; float:left;}
 .process .video video{ width:100%; float:left; position:absolute;}
 .process .title-box{ color:#cbcbc9;}
 .process .numbers{ font-size:50px; color:#fff; float:left; font-family:jaapokki; margin-right:10px; padding-right:10px; border-right:1px dotted #666;}
-.process .steps{font-family: 'Playfair Display', serif; color:#fff; margin:0; font-size:22px; margin-top:10px;}
+.process .steps{font-family: 'inherit'; color:#fff; margin:0; font-size:22px; margin-top:10px;letter-spacing: 3px;}
 .process p{ color:#666;}
 
 
