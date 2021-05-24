@@ -359,8 +359,6 @@
         <div class="sub-footer"> <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span>
           <ul>
             <li> <a href="contact">Contact Us</a></li>
-            <li> <a href="http://www.dribble.com/" target="_blank">Dribble</a></li>
-            <li> <a href="http://www.behance.net/" target="_blank">Behance</a></li>
             <li><a href="https://www.facebook.com/creativex.lk" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
             <li><a href="https://www.instagram.com/creative_x_digital/?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
           </ul>
