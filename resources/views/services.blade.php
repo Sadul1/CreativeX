@@ -288,7 +288,7 @@
       <!-- <p>We create digital experiences for brands communicating the unique services provided to your customers. Creativity for us something personal</p> -->
       </div>
       <!-- end col-4 -->
-        <div class="col-md-3 col-sm-3" style="width: 40%;">
+        <div class="col-md-3 col-md-3" style="width: 40%;">
           <ul>
             <li>
               <figure><img src="images/1.png" alt="Image"> </figure>
@@ -301,7 +301,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-3 col-sm-3" style="width: 50%;">
+        <div class="col-md-3 col-md-3" style="width: 50%;">
           <ul>
             <li>
               <figure><img src="images/4.png" alt="Image"> </figure>
@@ -314,7 +314,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-3 col-sm-3" style="width: 50%;">
+        <div class="col-md-3 col-md-3" style="width: 50%;">
           <ul>
             <li>
               <figure><img src="images/7.png" alt="Image"> </figure>
@@ -327,7 +327,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-3 col-sm-3" style="width: 50%;">
+        <div class="col-md-3 col-md-3" style="width: 50%;">
           <ul>
             <li>
               <figure><img src="images/10.png" alt="Image"> </figure>
