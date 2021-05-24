@@ -72,11 +72,11 @@
   <!-- end container --> 
 </nav>
 <!-- end navbar -->
-<section class="int-header hero8">
+<section class="int-header hero8" style="background-size: 700px;">
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 430px 0px 0px 0px;">creative concepts</h3>
+        <h3 style="padding: 390px 0px 0px 0px;">creative concepts</h3>
         <p>We are a creative design agency that brings ambitious brands to the next level by transforming their digital business.</p>
         <!--<img src="images/icon-mouse.png" alt="Image">-->
         

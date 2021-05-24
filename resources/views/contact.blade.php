@@ -66,7 +66,7 @@
   <!-- end container --> 
 </nav>
 <!-- end navbar -->
-<section class="int-header hero7">
+<section class="int-header hero7" style="background-size: 700px;">
   <div class="table">
     <div class="inner">
       <div class="container">
