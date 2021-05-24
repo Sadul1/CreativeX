@@ -36,13 +36,9 @@
 
 <!-- CSS FILES -->
 <link href="css/main.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
 </head>
 <body>
 <div class="loading">
@@ -60,7 +56,7 @@
 <nav class="navbar navbar-default" role="navigation">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12"> <a href="/"><img src="images/logo.png" alt="Image" class="logo" style="height: 160px;"></a>
+      <div class="col-xs-12"> <a href="/"><img src="images/logo.png" alt="Image" class="logo"></a>
         <div class="hamburger-menu"> <span></span> <span></span> <span></span> <span></span> </div>
       </div>
       <!-- end col-12 --> 
@@ -70,13 +66,14 @@
   <!-- end container --> 
 </nav>
 <!-- end navbar -->
-<section class="int-header hero5">
+<section class="int-header hero7">
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 430px 0px 0px 0px;">reAch wave</h3>
-        <p>Drop by for a coffee or leave us a message using contact form or email</p>
-        <img src="images/icon-mouse.png" alt="Image"> </div>
+        <h3 style="padding: 450px 0px 0px 0px;">creative start</h3>
+        <p>Your step to start the journey with us , will move your brand future to the next level.</p>
+        <!--<img src="images/icon-mouse.png" alt="Image">-->
+        </div>
       <!-- end container --> 
     </div>
     <!-- end inner --> 
@@ -85,7 +82,7 @@
 </section>
 <!-- end int-header -->
 <main>
-  <section class="contact-info">
+  <section class="contact-info" style="background: #AFEEEE;">
     <div class="container">
       <div class="row">
         <div class="col-md-4 wow fadeInUp" data-wow-delay="0.05s">
@@ -122,14 +119,15 @@
   <!-- end contact-info -->
   <!-- <div id="map" class="wow fadeInUp" data-wow-delay="0.05s"></div> -->
   <!-- end mao -->
-  <section class="contact-form">
+  <section class="contact-form" style="background: #AFEEEE;">
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
           <div class="title-box">
             <h2 class="wow fadeInUp" data-wow-delay="0.05s">.say hello</h2>
             <h5 class="wow fadeInUp" data-wow-delay="0.10s">How can we help or assist you. We have a passion for building </h5>
-            <span class="shape wow fadeInUp" data-wow-delay="0.15s">O</span> </div>
+            <!-- <span class="shape wow fadeInUp" data-wow-delay="0.15s">O</span> -->
+             </div>
           <!-- end title-box --> 
         </div>
         <!-- end col-12 -->
@@ -179,34 +177,63 @@
   <section class="logos">
     <div class="container">
       <div class="row">
-      <div class="col-md-4">
+      <div class="col-xs-12">
       <h4>HAPPY CLIENTS</h4>
-      <p>We create digital experiences for brands communicating the unique services provided to your customers. Creativity for us something personal</p>
+      <!-- <p>We create digital experiences for brands communicating the unique services provided to your customers. Creativity for us something personal</p> -->
       </div>
       <!-- end col-4 -->
-        <div class="col-sm-8">
+        <div class="col-md-3 col-sm-3" style="width: 40%;">
           <ul>
             <li>
-              <figure><img src="images/logo1.jpg" alt="Image"> </figure>
+              <figure><img src="images/1.png" alt="Image"> </figure>
             </li>
             <li>
-              <figure><img src="images/logo2.jpg" alt="Image"> </figure>
+              <figure><img src="images/2.png" alt="Image"> </figure>
             </li>
             <li>
-              <figure><img src="images/logo3.jpg" alt="Image"> </figure>
+              <figure><img src="images/3.png" alt="Image"> </figure>
             </li>
-            <li>
-              <figure><img src="images/logo4.jpg" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/logo5.jpg" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/logo6.jpg" alt="Image"> </figure>
-            </li>
-           
           </ul>
         </div>
+        <div class="col-md-3 col-sm-3" style="width: 50%;">
+          <ul>
+            <li>
+              <figure><img src="images/4.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/5.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/6.png" alt="Image"> </figure>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-3" style="width: 50%;">
+          <ul>
+            <li>
+              <figure><img src="images/7.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/8.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/9.png" alt="Image"> </figure>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-3" style="width: 50%;">
+          <ul>
+            <li>
+              <figure><img src="images/10.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/11.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/12.png" alt="Image"> </figure>
+            </li>
+          </ul>
+        </div> 
         <!-- end col-8 -->
       </div>
       <!-- end row --> 
@@ -227,12 +254,12 @@
         <div class="sub-footer"> <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span>
           <ul>
             <li> <a href="contact">Contact Us</a></li>
-            <!-- <li> <a href="career.html">Career</a></li> -->
             <li> <a href="http://www.dribble.com/" target="_blank">Dribble</a></li>
             <li> <a href="http://www.behance.net/" target="_blank">Behance</a></li>
+            <li><a href="https://www.facebook.com/creativex.lk" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.instagram.com/creative_x_digital/?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
           </ul>
         </div>
-        <!-- end sub-footer --> 
       </div>
       <!-- end col-12 --> 
     </div>

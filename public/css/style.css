@@ -268,7 +268,7 @@ input[type="text"]{ width:220px; height:40px; display:inline-block; border:1px s
 input[type="tel"]{ width:220px; height:40px; display:inline-block; border:1px solid #ccc; padding:0 15px;}
 input[type="email"]{ width:220px; height:40px; display:inline-block; border:1px solid #ccc; padding:0 15px;}
 input[type="password"]{ width:220px; height:40px; display:inline-block; border:1px solid #ccc; padding:0 15px;}
-button[type="submit"]{ height:40px; display:inline-block; background:#ee3643;  color:#fff; font-family: jaapokki; border:none; padding:0 20px;}
+button[type="submit"]{ height:40px; display:inline-block; background:#00264d;  color:#fff; font-family: jaapokki; border:none; padding:0 20px;}
 button[type="button"]{ height:40px; display:inline-block; background:#ee3643;  color:#fff; font-family: jaapokki; border:none; padding:0 20px;}
 label{ font-weight:normal; letter-spacing:2px;}
 textarea{ width:320px; height:110px; display:inline-block; border:1px solid #ccc; padding:15px;}
@@ -353,7 +353,7 @@ footer{ width:100%; float:left;}
 /* NAVBAR */
 .navbar-default{ width:100%; float:left; background:none; border:none; position:absolute; left:0; top:0; z-index:4; transform: translateY(-100%);}
 .navbar-default{-webkit-transition: .55s ease-in-out;-moz-transition: .55s ease-in-out;-ms-transition: .55s ease-in-out; -o-transition: .55s ease-in-out; transition: .55s ease-in-out; transition-delay: 1.5s;}
-.navbar-default .logo{ height:36px; float:left; margin:20px 0;}
+.navbar-default .logo{ height:36px; float:left; margin:50px 0;}
 .navbar-default.show{transform: translateY(0);}
 .navbar-default .navbar-nav{ float:right; margin:20px 0;}
 .navbar-default .navbar-nav li{ float:left;}
@@ -454,10 +454,12 @@ footer{ width:100%; float:left;}
 .int-header img{ display:inline-block;}
 .int-header.hero1{background:url(../images/hero1.gif) center no-repeat #73d6ff; background-attachment:fixed;}
 .int-header.hero2{background:url(../images/hero2.gif) center no-repeat #45d1c6; background-attachment:fixed;}
-.int-header.hero3{background:url(../images/hero1.gif) center no-repeat #73d6ff; background-attachment:fixed;}
+.int-header.hero3{background:url(../images/hero3.gif) center no-repeat #000000; background-attachment:fixed;}
 .int-header.hero4{background:url(../images/hero4.gif) center no-repeat #82bcf0; background-attachment:fixed;}
 .int-header.hero5{background:url(../images/hero5.gif) center no-repeat #69af9a; background-attachment:fixed;}
 .int-header.hero6{background:url(../images/hero6.gif) center no-repeat #9e514d; background-attachment:fixed;}
+.int-header.hero7{background:url(../images/hero7.gif) center no-repeat #ecb92f; background-attachment:fixed;}
+.int-header.hero8{background:url(../images/hero8.gif) center no-repeat #3d84a8; background-attachment:fixed;}
 .goes-up{ margin:0; transition-duration: 1500ms; -webkit-transition-duration: 1500ms; transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1); -webkit-transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1); transition-delay: 0.60s;}
 
 
@@ -535,10 +537,10 @@ footer{ width:100%; float:left;}
 .contact-info h3:after{content:''; width:50px; height:1px; background:#ee3643; position:absolute; left:0; bottom:-22px;}
 .contact-info h4{ font-size:14px; font-weight:800; letter-spacing:3px; margin-top:0; margin-bottom:40px; position:relative;} 
 .contact-info h4:after{content:''; width:50px; height:1px; background:#ee3643; position:absolute; right:0; bottom:-22px;}
-.contact-info span{ width:100%; float:left; letter-spacing:2px; font-size:13px; font-weight:300;}
+.contact-info span{ width:100%; float:left; letter-spacing:2px; font-size:13px; font-weight:400;}
 .contact-info img{ height:40px; margin-top:26px;}
-.contact-info p{ font-weight:300; letter-spacing:1px; margin:0;}
-.contact-info a{ text-decoration:underline;}
+.contact-info p{ font-weight:400; letter-spacing:1px; margin:0;}
+/*.contact-info a{ text-decoration:underline;}*/
 
 
 
@@ -597,7 +599,7 @@ footer{ width:100%; float:left;}
 /* SERVICES */
 .services{ width:100%; float:left; padding:100px 0; background:#f5f5f5;}
 .services p{ line-height:24px; font-size:16px; opacity:0.6; font-weight:300; letter-spacing:1px;}
-.services h4{ font-family: 'Playfair Display', serif; font-size:18px; margin-bottom:20px; letter-spacing:2px;}
+.services h4{ font-family: inherit; font-size:16px; margin-bottom:20px; letter-spacing:2px;font-weight: 600;}
 .services i{ font-size:40px; margin-bottom:30px; position:relative; display:block;}
 .services i:after{content:''; width:50px; height:1px; background:#ee3643; position:absolute; left:0; bottom:-10px;}
 .services i:before{ margin:0;}
@@ -629,7 +631,10 @@ footer{ width:100%; float:left;}
 
 /* PROCESS */
 .process{ width:100%; float:left; background:#1d1d1d; padding:100px 0; position:relative; overflow:hidden;}
-.process .video{ width:100%; position:absolute; left:0; top:0; opacity:0.1;}
+.process .video{ width:100%; position:absolute; left:0; top:0; 
+/*opacity:0.1;*/
+    
+}
 .process .video video{ width:100%; float:left; position:absolute;}
 .process .title-box{ color:#cbcbc9;}
 .process .numbers{ font-size:50px; color:#fff; float:left; font-family:jaapokki; margin-right:10px; padding-right:10px; border-right:1px dotted #666;}
@@ -679,7 +684,7 @@ footer{ width:100%; float:left;}
 
 /* FOOTER */
 .footer-space{ width:100%; height:410px; float:left; position:relative; z-index:2;}
-footer{ width:100%; float:left; background:#1d1d1d; color:#fff; position:fixed; bottom:0; left:0; z-index:2;}
+footer{ width:100%; float:left; background:#00264d; color:#fff; position:fixed; bottom:0; left:0; z-index:2;}
 footer .logo{ width:107px; display:inline-block; margin-bottom:20px; margin-top:100px;}
 footer h3{ font-size:40px; font-family:jaapokki; text-transform:uppercase; margin-bottom:100px;}
 footer .sub-footer{ width:100%; float:left; border-top:1px solid rgba(255,255,255,0.1); padding:30px 0;}
@@ -687,6 +692,21 @@ footer .sub-footer .copyright{ float:left; font-size:12px; font-weight:700; colo
 footer .sub-footer ul{ float:right;}
 footer .sub-footer ul li{ float:left; margin-right:40px;}
 footer .sub-footer ul li a{ float:left; font-size:12px; font-weight:700; color:#666;}
+
+
+#social #container {
+	text-align: center;
+  }
+  
+  #social #container ul {
+	float: left;
+  }
+  
+  #social #container ul li {
+	float: left;
+	padding-left: 10px;
+	list-style-type: none;
+  }
 
 
 

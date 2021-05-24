@@ -36,6 +36,7 @@
 
 <!-- CSS FILES -->
 <link href="css/main.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -60,7 +61,7 @@
 <nav class="navbar navbar-default" role="navigation">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12"> <a href="/"><img src="images/logo.png" alt="Image" class="logo" style="height: 160px;"></a>
+      <div class="col-xs-12"> <a href="/"><img src="images/logo.png" alt="Image" class="logo"></a>
         <div class="hamburger-menu"> <span></span> <span></span> <span></span> <span></span> </div>
       </div>
       <!-- end col-12 --> 
@@ -74,9 +75,9 @@
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 430px 0px 0px 0px;">creAtive platfOrm</h3>
-        <p>We are the creative design agency that brings ambitious brands to the next level by transforming their digital business environment.</p>
-        <img src="images/icon-mouse.png" alt="Image"> </div>
+        <h3 style="padding: 390px 0px 0px 0px;">creative team</h3>
+        <p>Our developers & designers are out of the box thinkers who will create next level concepts.</p>
+      </div>
       <!-- end container --> 
     </div>
     <!-- end inner --> 
@@ -85,14 +86,15 @@
 </section>
 <!-- end int-header -->
 <main>
-  <section class="wave-things">
+  <section class="wave-things" style="background: #AFEEEE;">
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
           <div class="title-box">
             <h2 class="wow fadeInUp" data-wow-delay="0.05s">.about us</h2>
-            <h5 class="wow fadeInUp" data-wow-delay="0.10s">Amazing project with unique ideas</h5>
-            <span class="shape wow fadeInUp" data-wow-delay="0.15s">O</span> </div>
+            <h5 class="wow fadeInUp" data-wow-delay="0.10s">We are ROI , Results Oriented Individuals</h5>
+            <!-- <span class="shape wow fadeInUp" data-wow-delay="0.15s">O</span>  -->
+            </div>
           <!-- end title-box --> 
         </div>
         <!-- end col-12 -->
@@ -110,10 +112,14 @@
           <h4>SOCIAL MEDIA</h4>
           <p>We're believers in making things simple. So when we discovered the lengths creative agencies and production companies were going to in order to pitch.</p>
         </div> -->
-        
-        <p style="text-align: justify; line-height: 24px; font-weight: 400; letter-spacing: 1px;">Creative X is one of the leading Digital Marketing Companies in Sri Lanka with a multi-disciplinary team of designers, developers and creators. We pour our hearts into every project we touch and are committed towards pushing the boundaries of what's digitally possible through better design and code. Our clients range from First-time entrepreneurs, Celebrities, SME to Corporate businesses.</p>
-        <p style="text-align: justify; line-height: 24px; font-weight: 400; letter-spacing: 1px;">Every design & development we work on with the mind setup of the importance of giving your brand a strong digital presence. It is today’s key to end-user engagement and the doorway to your growth by blending technology & design. Creative X has embraced this formula and integrated it into our ethos & ensures that both discern creative voices and first-rated technical vision are presented at the onset of every new client challenge”.</p>
 
+        <div class="col-md-6" data-wow-delay="0.05s">
+        <p style="text-align: justify; line-height: 24px; font-weight: 400; letter-spacing: 1px;">Creative X is one of the leading Digital Marketing Companies in Sri Lanka with a multi-disciplinary team of designers, developers and creators. We pour our hearts into every project we touch and are committed towards pushing the boundaries of what's digitally possible through better design and code. Our clients range from First-time entrepreneurs, Celebrities, SME to Corporate businesses.</p>
+        </div>
+        <div class="col-md-6" data-wow-delay="0.05s">
+        <p style="text-align: justify; line-height: 24px; font-weight: 400; letter-spacing: 1px;">Every design & development we work on with the mind setup of the importance of giving your brand a strong digital presence. It is today’s key to end-user engagement and the doorway to your growth by blending technology & design. Creative X has embraced this formula and integrated it into our ethos & ensures that both discern creative voices and first-rated technical vision are presented at the onset of every new client challenge”.</p>
+        </div>
+      </div>
 
       </div>
       <!-- end row -->
@@ -122,8 +128,8 @@
   </section>
   <!-- end wave-things -->
   <section class="process">
-    <div class="video">
-      <video src="videos/video.mp4" muted loop autoplay data-stellar-ratio="0.5"></video>
+    <div class="video" style="opacity: 0.3;">
+      <video src="videos/video3.mp4" muted loop autoplay data-stellar-ratio="0.5"></video>
     </div>
     <!-- end video -->
     <div class="container">
@@ -132,28 +138,29 @@
           <div class="title-box">
             <h2 class="wow fadeInUp" data-wow-delay="0.05s">.stand out online</h2>
             <h5 class="wow fadeInUp" data-wow-delay="0.10s">We are specialized in boosting your brand awareness, increase your sales by exponentially generate more leads and conversion</h5>
-            <span class="shape wow fadeInUp" data-wow-delay="0.15s">O</span> </div>
+            <!-- <span class="shape wow fadeInUp" data-wow-delay="0.15s">O</span>  -->
+            </div>
           <!-- end title-box --> 
         </div>
         <!-- end col-12 -->
         <div class="col-md-3 wow fadeIn" data-wow-delay="0.05s"> <span class="numbers">1</span>
           <h5 class="steps">PLANNING</h5>
-          <p>Practical & Strong strategy</p>
+          <p style="color: #fff;">Practical & Strong strategy</p>
         </div>
         <!-- end col-3 -->
         <div class="col-md-3 wow fadeIn" data-wow-delay="0.10s"> <span class="numbers">2</span>
           <h5 class="steps">DESIGNING</h5>
-          <p>Unique & User friendly</p>
+          <p style="color: #fff;">Unique & User friendly</p>
         </div>
         <!-- end col-3 -->
         <div class="col-md-3 wow fadeIn" data-wow-delay="0.15s"> <span class="numbers">3</span>
           <h5 class="steps">DEVELOPMENT</h5>
-          <p>Next level & Futuristic</p>
+          <p style="color: #fff;">Next level & Futuristic</p>
         </div>
         <!-- end col-3 -->
         <div class="col-md-3 wow fadeIn" data-wow-delay="0.20s"> <span class="numbers">4</span>
           <h5 class="steps">LAUNCH</h5>
-          <p>Let the games begin</p>
+          <p style="color: #fff;">Let the games begin</p>
         </div>
         <!-- end col-3 --> 
       </div>
@@ -162,44 +169,47 @@
     <!-- end container -->
   </section>
   <!-- end process -->
-  <section  class="about-us">
+
+  <section class="wave-things" style="background:#008B8B;">
     <div class="container">
       <div class="row">
-        <div class="col-md-7 wow fadeInUp" data-wow-delay="0.5s">
-          <h2>Why Us</h2>
-          <h3>Unique ideas need creative execution</h3>
-          <!-- <p>We work closely with entrepreneurs and forward-thinking companies to launch products. Focusing on a lean approach, we work smart and fast to realise their vision.</p>
-          <p>We make sure your brand reflects who you are and what you stand for, using thoughtful graphic design and smart strategy. Whether you need a new business logo, fresh marketing materials or a complete overhaul, we can bring your brand to life.</p> -->
-          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.05s">
-            <h4>01. CREATIVENESS</h4>
-            <p style="color: black; font-weight: normal;">In a highly competitive market like Sri Lanka, consumers are exposed to dozens of ads every single day. Most ads, however, fail to hit the mark: disjointed, confusing and lack emotions. At Creative X, we only conceptualize simple yet creative ideas that will win hearts and minds.</p>
-          </div>
-          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.10s">
-          <h4>02. RESULTS-ORIENTED</h4>
-          <p style="color: black; font-weight: normal;">Every single person on the team is trained to be results oriented. In fact, we call ourselves the ROI – Results Oriented Individuals.</p>
+        <div class="col-xs-12">
+          <div class="title-box">
+            <h2 class="wow fadeInUp" data-wow-delay="0.05s" style="color: #fff;">.why us</h2>
+            <h5 class="wow fadeInUp" data-wow-delay="0.10s" style="color: #fff;">Unique ideas need creative execution.</h5>
+            <!-- <span class="shape wow fadeInUp" data-wow-delay="0.15s">O</span> -->
+             </div>
+          <!-- end title-box --> 
+        </div>
+        <!-- end col-12 -->
+        <div class="col-md-4 wow fadeInUp" data-wow-delay="0.05s">
+          <h4 style="color: #fff;">01. CREATIVENESS</h4>
+          <p style="color: #fff;">In a highly competitive market like Sri Lanka, consumers are exposed to dozens of ads every single day. Most ads, however, fail to hit the mark: disjointed, confusing and lack emotions. At Creative X, we only conceptualize simple yet creative ideas that will win hearts and minds.</p>
+        </div>
+        <!-- end col-4 -->
+        <div class="col-md-4 wow fadeInUp" data-wow-delay="0.10s">
+          <h4 style="color: #fff;">02. RESULTS-ORIENTED</h4>
+          <p style="color: #fff;">Every single person on the team is trained to be results oriented. In fact, we call ourselves the ROI – Results Oriented Individuals.</p>
         </div>
         <!-- end col-4 -->
         <div class="col-md-4 wow fadeInUp" data-wow-delay="0.15s">
-          <h4>03. OUR PRIORITY</h4>
-          <p style="color: black; font-weight: normal;">Unlike other digital agencies, your project isn’t going to get put on the backburner because somebody “more important” comes along. You’ll never be assigned to a “B-team”; in fact, we don’t even have one!</p>
+          <h4 style="color: #fff;">03. OUR PRIORITY</h4>
+          <p style="color: #fff;">Unlike other digital agencies, your project isn’t going to get put on the backburner because somebody “more important” comes along. You’ll never be assigned to a “B-team”; in fact, we don’t even have one!</p>
         </div>
-        </div>
-        <!-- end col-7 -->
-        <div class="col-md-5 wow fadeInUp" data-wow-delay="0.10s"> <img src="images/image1.jpg" alt="Image"> </div>
-        <!-- end col-5 --> 
+        <!-- end col-4 --> 
       </div>
       <!-- end row -->
     </div>
     <!-- end container -->
   </section>
+
   <!-- end about -us -->
  <section class="quote wow fadeInUp" data-wow-delay="0.5s">
-    <div class="columms background-image">
+    <div class="columms background-image" style="background: url(../images/bolt.jpg) no-repeat;">
       <div class="table">
         <div class="inner">
-          <h2><span>HANDMADE</span><br>
-            DIGITAL WORKS</h2>
-          <a href="#">+</a> </div>
+          <h2><span></span><br></h2>
+        </div>
           <!-- end inner -->
       </div>
       <!-- end table -->
@@ -208,8 +218,8 @@
     <div class="columms">
       <div class="table">
         <div class="inner">
-          <blockquote>Success depends upon previous preparation, and without such preparation there is sure to be failure.</blockquote>
-          <h3>"CONFUCIUS"</h3>
+          <blockquote>"There are better starters than me , but i'm a strong finisher."</blockquote>
+          <h3>- Usain Bolt -</h3>
         </div>
         <!-- end inner -->
       </div>
@@ -254,34 +264,63 @@
   <section class="logos">
     <div class="container">
       <div class="row">
-      <div class="col-md-4">
+      <div class="col-xs-12">
       <h4>HAPPY CLIENTS</h4>
-      <p>We create digital experiences for brands communicating the unique services provided to your customers. Creativity for us something personal</p>
+      <!-- <p>We create digital experiences for brands communicating the unique services provided to your customers. Creativity for us something personal</p> -->
       </div>
       <!-- end col-4 -->
-        <div class="col-sm-8">
+        <div class="col-md-3 col-sm-3" style="width: 40%;">
           <ul>
             <li>
-              <figure><img src="images/logo1.jpg" alt="Image"> </figure>
+              <figure><img src="images/1.png" alt="Image"> </figure>
             </li>
             <li>
-              <figure><img src="images/logo2.jpg" alt="Image"> </figure>
+              <figure><img src="images/2.png" alt="Image"> </figure>
             </li>
             <li>
-              <figure><img src="images/logo3.jpg" alt="Image"> </figure>
+              <figure><img src="images/3.png" alt="Image"> </figure>
             </li>
-            <li>
-              <figure><img src="images/logo4.jpg" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/logo5.jpg" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/logo6.jpg" alt="Image"> </figure>
-            </li>
-           
           </ul>
         </div>
+        <div class="col-md-3 col-sm-3" style="width: 50%;">
+          <ul>
+            <li>
+              <figure><img src="images/4.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/5.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/6.png" alt="Image"> </figure>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-3" style="width: 50%;">
+          <ul>
+            <li>
+              <figure><img src="images/7.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/8.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/9.png" alt="Image"> </figure>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-3" style="width: 50%;">
+          <ul>
+            <li>
+              <figure><img src="images/10.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/11.png" alt="Image"> </figure>
+            </li>
+            <li>
+              <figure><img src="images/12.png" alt="Image"> </figure>
+            </li>
+          </ul>
+        </div> 
         <!-- end col-8 -->
       </div>
       <!-- end row --> 
@@ -299,11 +338,12 @@
       <!-- end col-12 -->
       <div class="col-xs-12">
         <div class="sub-footer"> <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span>
-          <ul>
+        <ul>
             <li> <a href="contact">Contact Us</a></li>
-            <!-- <li> <a href="career.html">Career</a></li> -->
             <li> <a href="http://www.dribble.com/" target="_blank">Dribble</a></li>
             <li> <a href="http://www.behance.net/" target="_blank">Behance</a></li>
+            <li><a href="https://www.facebook.com/creativex.lk" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.instagram.com/creative_x_digital/?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
           </ul>
         </div>
         <!-- end sub-footer --> 
