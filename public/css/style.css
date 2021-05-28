@@ -742,7 +742,9 @@ footer .sub-footer ul li a{ float:left; font-size:12px; font-weight:700; color:#
 .int-header p{ padding:0 10%;}
 .showcase h2{ font-size:60px;}
 .showcase .portfolio-masonry li{ width:100% !important;}
-.quote .columms{ width:100%;}
+.quote .columms{ 
+	/* width:100%; */
+}
 .features-list ul{ margin-bottom:40px}
 .features-list ul li{ font-size:14px;}
 .career .col-md-4{ margin-bottom:80px;}

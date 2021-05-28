@@ -209,118 +209,16 @@
     <!-- end columms --> 
   </section>
   <!-- end quote -->
-   
-  <!-- <section class="team-members wow fadeInUp" data-wow-delay="0.5s">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 member">
-          <div class="member-info">
-            <h3>JESSICA MCLOREN</h3>
-            <span>CREATIVE COPYWRITER</span> </div>
-          
-          <figure> <img src="images/team-member1.jpg" alt="Image"> </figure>
-        </div>
-      
-        <div class="col-md-4 member">
-          <div class="member-info">
-            <h3>CHRIS WILLAM</h3>
-            <span>CREATIVE ART DIRECTOR</span> </div>
-          
-          <figure> <img src="images/team-member2.jpg" alt="Image"> </figure>
-        </div>
-      
-        <div class="col-md-4 member">
-          <div class="member-info">
-            <h3>MELISSA CARTER</h3>
-            <span>FRONT-END DEVELOPER</span> </div>
-        
-          <figure> <img src="images/team-member3.jpg" alt="Image"> </figure>
-        </div>
-        
-      </div>
-    
-    </div>
-  
-  </section> -->
-
 
   <section class="logos">
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
       <h4>HAPPY CLIENTS</h4>
-      <!-- <p>We create digital experiences for brands communicating the unique services provided to your customers. Creativity for us something personal</p> -->
       </div>
-      <!-- end col-4 -->
-        <div class="col-md-3 col-sm-3" style="width: 40%;">
-          <ul>
-            <li>
-              <figure><img src="images/1.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/2.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/3.png" alt="Image"> </figure>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-3 col-sm-3" style="width: 50%;">
-          <ul>
-            <li>
-              <figure><img src="images/4.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/5.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/6.png" alt="Image"> </figure>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-3 col-sm-3" style="width: 50%;">
-          <ul>
-            <li>
-              <figure><img src="images/7.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/8.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/9.png" alt="Image"> </figure>
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-3 col-sm-3" style="width: 50%;">
-          <ul>
-            <li>
-              <figure><img src="images/10.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/11.png" alt="Image"> </figure>
-            </li>
-            <li>
-              <figure><img src="images/12.png" alt="Image"> </figure>
-            </li>
-          </ul>
-        </div> 
-        <!-- end col-8 -->
-      </div>
-      <!-- end row --> 
-    </div>
-    <!-- end container --> 
-  </section>
-  
 
-  <!-- <section class="logos">
-    <div class="container">
-      <div class="row">
-      <div class="col-md-4">
-      <h4>HAPPY CLIENTS</h4>
-      <p>We create digital experiences for brands communicating the unique services provided to your customers. Creativity for us something personal</p>
-      </div>
       
-        <div class="col-sm-8">
+        <div class="col-xs-3 col-sm-3" style="width: 100%;">
           <ul>
             <li>
               <figure><img src="images/1.png" alt="Image"> </figure>
@@ -331,6 +229,10 @@
             <li>
               <figure><img src="images/3.png" alt="Image"> </figure>
             </li>
+          </ul>
+        </div>
+        <div class="col-xs-3 col-sm-3" style="width: 100%;">
+          <ul>
             <li>
               <figure><img src="images/4.png" alt="Image"> </figure>
             </li>
@@ -340,6 +242,11 @@
             <li>
               <figure><img src="images/6.png" alt="Image"> </figure>
             </li>
+          </ul>
+        </div>
+    
+        <div class="col-xs-3 col-sm-3" style="width: 100%;">
+          <ul>
             <li>
               <figure><img src="images/7.png" alt="Image"> </figure>
             </li>
@@ -349,6 +256,10 @@
             <li>
               <figure><img src="images/9.png" alt="Image"> </figure>
             </li>
+          </ul>
+        </div>
+        <div class="col-xs-3 col-sm-3" style="width: 100%;">
+          <ul>
             <li>
               <figure><img src="images/10.png" alt="Image"> </figure>
             </li>
@@ -358,32 +269,34 @@
             <li>
               <figure><img src="images/12.png" alt="Image"> </figure>
             </li>
-           
           </ul>
         </div>
+      
         
       </div>
-     
+      
     </div>
-    
-  </section> -->
+   
+  </section>
+  
 </main>
  <div class="footer-space"></div> 
 <footer>
    <div class="container"> 
-     <div class="row"> 
+     <!-- <div class="row"> 
        <div class="col-xs-12 text-center"> <img src="images/logo.png" alt="Image" class="logo"> 
          <h3 style="font-family: cursive;">we are a digital agency</h3> 
-       </div> 
+       </div>  -->
       <!-- end col-12 -->
        <div class="col-xs-12"> 
          <div class="sub-footer">  
-          <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span> 
-          <ul>
+          <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span>  
+          
+          <!-- <ul>
             <li> <a href="contact">Contact Us</a></li>
             <li><a href="https://www.facebook.com/creativex.lk" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
             <li><a href="https://www.instagram.com/creative_x_digital/?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-          </ul>
+          </ul> -->
          </div> 
         <!-- end sub-footer --> 
        </div> 
