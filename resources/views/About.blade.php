@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>About Us | Creative X</title>
+<title>Creative X | Creative Digital Agency</title>
 <meta name="author" content="Themezinho">
 <meta name="description" content="Agency & Freelancer Portfolio HTML Template">
 <meta name="keywords" content="wave, creatve, portfolio, html, template, carousel, theme, agency, html5">
@@ -204,7 +204,7 @@
   </section>
 
   <!-- end about -us -->
- <section class="quote wow fadeInUp" data-wow-delay="0.5s">
+ <section class="quote wow fadeInUp" data-wow-delay="0.5s" style="height: 500px;background: #000;">
     <div class="columms background-image" style="background: url(../images/bolt.jpg) no-repeat;">
       <div class="table">
         <div class="inner">
@@ -333,7 +333,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 text-center"> <img src="images/logo.png" alt="Image" class="logo">
-        <h3>WE ARE A DIGITAL AGENCY</h3>
+      <h3 style="font-family: cursive;">we are a digital agency</h3>
       </div>
       <!-- end col-12 -->
       <div class="col-xs-12">

@@ -683,7 +683,7 @@ footer{ width:100%; float:left;}
 
 
 /* FOOTER */
-.footer-space{ width:100%; height:410px; float:left; position:relative; z-index:2;}
+.footer-space{ width:100%; height:70px; float:left; position:relative; z-index:2;}
 footer{ width:100%; float:left; background:#00264d; color:#fff; position:fixed; bottom:0; left:0; z-index:2;}
 footer .logo{ width:107px; display:inline-block; margin-bottom:20px; margin-top:100px;}
 footer h3{ font-size:40px; font-family:jaapokki; text-transform:uppercase; margin-bottom:100px;}

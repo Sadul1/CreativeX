@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Creative X | Agency & Freelancer Portfolio</title>
+<title>Creative X | Creative Digital Agency</title>
 <meta name="author" content="Themezinho">
 <meta name="description" content="Agency & Freelancer Portfolio HTML Template">
 <meta name="keywords" content="wave, creatve, portfolio, html, template, carousel, theme, agency, html5">
@@ -72,12 +72,12 @@
   <!-- end container --> 
 </nav>
 <!-- end navbar -->
-<section class="int-header hero2">
+<section class="int-header hero2" style="z-index: 2;">
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 430px 0px 0px 0px;">creative agency</h3>
-        <p>We are a creative design agency that brings ambitious brands to the next level by transforming their digital business.</p>
+        <h3 style="padding: 430px 0px 0px 0px; font-size: 60px;">creative agency</h3>
+        <p style="font-size: 17px;">We are a creative design agency that brings ambitious brands to the next level by transforming their <span style="white-space: nowrap;">digital business.<span></p>
         <!--<img src="images/icon-mouse.png" alt="Image">-->
         
         </div>
@@ -90,29 +90,18 @@
 <!-- end int-header -->
 
 <!-- <div class="footer-space"></div> -->
-<footer>
-  <!-- <div class="container"> -->
-    <!-- <div class="row"> -->
-      <!-- <div class="col-xs-12 text-center"> <img src="images/logo.png" alt="Image" class="logo"> -->
-        <!-- <h3>WE ARE A DIGITAL AGENCY</h3> -->
-      <!-- </div> -->
-      <!-- end col-12 -->
-      <!-- <div class="col-xs-12"> -->
-        <!-- <div class="sub-footer">  -->
-        <!-- <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span> -->
+<footer style="background: #008080;">
+<div class="col-xs-12"> 
+         <div class="sub-footer" style="padding: 0px 0;">  
+          <span class="copyright" style="color: #000; font-weight: 400;">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span> 
           <!-- <ul>
-            <li> <a href="contact">Contact Us</a></li>
-            <li> <a href="http://www.dribble.com/" target="_blank">Dribble</a></li>
-            <li> <a href="http://www.behance.net/" target="_blank">Behance</a></li>
+            <li> <a href="contact" style="color: #000;font-weight: 400;">Contact Us</a></li>
+            <li><a href="https://www.facebook.com/creativex.lk" target="_blank" style="color: #000;font-weight: 400;"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.instagram.com/creative_x_digital/?utm_medium=copy_link" target="_blank" style="color: #000;font-weight: 400;"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
           </ul> -->
-        <!-- </div> -->
+         </div> 
         <!-- end sub-footer --> 
-      <!-- </div> -->
-      <!-- end col-12 --> 
-    <!-- </div> -->
-    <!-- end row --> 
-  <!-- </div> -->
-  <!-- end container --> 
+       </div>
 </footer>
 <!-- end footer --> 
 

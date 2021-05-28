@@ -6,7 +6,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Creative X | Agency & Freelancer Portfolio</title>
+<title>Creative X | Creative Digital Agency</title>
 <meta name="author" content="Themezinho">
 <meta name="description" content="Agency & Freelancer Portfolio HTML Template">
 <meta name="keywords" content="wave, creatve, portfolio, html, template, carousel, theme, agency, html5">
@@ -88,14 +88,14 @@
   <!-- end table --> 
 </section>
 <main>
-  <section  class="about-us" style="background: #00bcff;">
+  <section  class="about-us" style="background: #00bcff;padding: 50px 0;">
     <div class="container">
       <div class="row">
         <div class="col-md-7 wow fadeInUp" data-wow-delay="0.5s">
-          <h2>.creative X</h2>
+          <h2 style="font-size: 70px;font-weight: 600; line-height: 1.1;">.creativeX</h2>
           <h3 style="font-weight: 600;">Unique ideas need creative execution</h3>
-          <p>We work closely with entrepreneurs and forward-thinking companies to launch products. Focusing on a lean approach, we work smart and fast to realise their vision.</p>
-          <p>We make sure your brand reflects who you are and what you stand for, using thoughtful graphic design and smart strategy. Whether you need a new business logo, fresh marketing materials or a complete overhaul, we can bring your brand to life.</p>
+          <p style="text-align: justify;">We work closely with entrepreneurs and forward-thinking companies to launch products. Focusing on a lean approach, we work smart and fast to realise their vision.</p>
+          <p style="text-align: justify;">We make sure your brand reflects who you are and what you stand for, using thoughtful graphic design and smart strategy. Whether you need a new business logo, fresh marketing materials or a complete overhaul, we can bring your brand to life.</p>
         </div>
         <!-- end col-7 -->
         <div class="col-md-5 wow fadeInUp" data-wow-delay="0.10s"> <img src="images/preview1.gif" alt="Image"> </div>
@@ -163,17 +163,17 @@
         <!-- end col-12 -->
         <div class="col-md-4 wow fadeInUp" data-wow-delay="0.05s">
           <h4 style="color: #fff;">SOCIAL MEDIA</h4>
-          <p style="color: #fff;">If you are not on Social media you don’t exist. We Harness the power of social media with creative campaigns and engaging contents.</p>
+          <p style="color: #fff;text-align: justify;">If you are not on Social media you don’t exist. We Harness the power of social media with creative campaigns and engaging contents.</p>
         </div>
         <!-- end col-4 -->
         <div class="col-md-4 wow fadeInUp" data-wow-delay="0.10s">
           <h4 style="color: #fff;">WEB DESIGN</h4>
-          <p style="color: #fff;">Your website is your company’s first impression to the world digitally. We firmly believe that it is the most important marketing and sales platform that you have.</p>
+          <p style="color: #fff;text-align: justify;">Your website is your company’s first impression to the world digitally. We firmly believe that it is the most important marketing and sales platform that you have.</p>
         </div>
         <!-- end col-4 -->
         <div class="col-md-4 wow fadeInUp" data-wow-delay="0.15s">
           <h4 style="color: #fff;">DIGITAL BRANDING</h4>
-          <p style="color: #fff;">“People don’t buy products, they buy brands,” is an old business saying that gets to the heart of what branding is all about. We will drive your brand on a scientific method & an out of the box concepts.</p>
+          <p style="color: #fff;text-align: justify;">“People don’t buy products, they buy brands,” is an old business saying that gets to the heart of what branding is all about. We will drive your brand on a scientific method & an out of the box concepts.</p>
         </div>
         <!-- end col-4 --> 
       </div>
@@ -185,8 +185,8 @@
   
   
   <!-- end about -us -->
- <section class="quote wow fadeInUp" data-wow-delay="0.5s">
-    <div class="columms background-image">
+ <section class="quote wow fadeInUp" data-wow-delay="0.5s" style="height: 500px;background: #000;">
+    <div class="columms background-image" style="background: url(../images/bolt.jpg) no-repeat;">
       <div class="table">
         <div class="inner">
           <h2><span></span><br></h2>
@@ -199,8 +199,8 @@
     <div class="columms">
       <div class="table">
         <div class="inner">
-          <blockquote>"People don't care about what you say , they care about what you build"</blockquote>
-          <h3>- mark zuckerberg -</h3>
+          <blockquote>"There are better starters than me , but i'm a strong finisher."</blockquote>
+          <h3>- Usain Bolt -</h3>
         </div>
         <!-- end inner -->
       </div>
@@ -373,13 +373,13 @@
    <div class="container"> 
      <div class="row"> 
        <div class="col-xs-12 text-center"> <img src="images/logo.png" alt="Image" class="logo"> 
-         <h3>WE ARE A DIGITAL AGENCY</h3> 
+         <h3 style="font-family: cursive;">we are a digital agency</h3> 
        </div> 
       <!-- end col-12 -->
        <div class="col-xs-12"> 
          <div class="sub-footer">  
-         <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span> 
-         <ul>
+          <span class="copyright">© 2021 Creative X | Mount Lavinia, Sri Lanka.</span> 
+          <ul>
             <li> <a href="contact">Contact Us</a></li>
             <li><a href="https://www.facebook.com/creativex.lk" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
             <li><a href="https://www.instagram.com/creative_x_digital/?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
