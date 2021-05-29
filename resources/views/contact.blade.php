@@ -7,25 +7,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Creative X | Creative Digital Agency</title>
-<meta name="author" content="Themezinho">
-<meta name="description" content="Agency & Freelancer Portfolio HTML Template">
-<meta name="keywords" content="wave, creatve, portfolio, html, template, carousel, theme, agency, html5">
+<meta name="Creative X" content="Creative Digital Agency">
 
 <!-- SOCIAL MEDIA META -->
-<meta property="og:description" content="Wave | Agency & Freelancer Portfolio">
-<meta property="og:image" content="../../acrocapoeira.com/wave/preview.html">
-<meta property="og:site_name" content="WAVE">
-<meta property="og:title" content="WAVE">
-<meta property="og:type" content="website">
-<meta property="og:url" content="http://www.acrocapoeira.com/wave">
-
-<!-- TWITTER META -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@WAVE">
-<meta name="twitter:creator" content="@WAVE">
-<meta name="twitter:title" content="WAVE">
-<meta name="twitter:description" content="Wave | Agency & Freelancer Portfolio">
-<meta name="twitter:image" content="../../acrocapoeira.com/wave/preview.html">
 
 <!-- FAVICON FILES -->
 <link href="ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
