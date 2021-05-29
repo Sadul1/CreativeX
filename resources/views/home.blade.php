@@ -7,9 +7,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Creative X | Creative Digital Agency</title>
-<meta name="author" content="Themezinho">
-<meta name="description" content="Agency & Freelancer Portfolio HTML Template">
-<meta name="keywords" content="wave, creatve, portfolio, html, template, carousel, theme, agency, html5">
+<!-- <meta name="author" content="Themezinho"> -->
+<meta name="Creative X" content="Creative Digital Agency">
+<!-- <meta name="keywords" content="wave, creatve, portfolio, html, template, carousel, theme, agency, html5"> -->
 
 <!-- SOCIAL MEDIA META -->
 <!-- <meta property="og:description" content="Wave | Agency & Freelancer Portfolio">

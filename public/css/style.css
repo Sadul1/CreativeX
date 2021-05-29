@@ -534,9 +534,9 @@ footer{ width:100%; float:left;}
 /* CONTACT INFO */
 .contact-info{ width:100%; float:left; padding:100px 0;} 
 .contact-info h3{ font-size:14px; font-weight:800; letter-spacing:3px; margin-top:0; margin-bottom:40px; position:relative;} 
-.contact-info h3:after{content:''; width:50px; height:1px; background:#ee3643; position:absolute; left:0; bottom:-22px;}
+.contact-info h3:after{content:''; width:50px; height:1px; background:#000; position:absolute; left:0; bottom:-22px;}
 .contact-info h4{ font-size:14px; font-weight:800; letter-spacing:3px; margin-top:0; margin-bottom:40px; position:relative;} 
-.contact-info h4:after{content:''; width:50px; height:1px; background:#ee3643; position:absolute; right:0; bottom:-22px;}
+.contact-info h4:after{content:''; width:50px; height:1px; background:#000; position:absolute; right:0; bottom:-22px;}
 .contact-info span{ width:100%; float:left; letter-spacing:2px; font-size:13px; font-weight:400;}
 .contact-info img{ height:40px; margin-top:26px;}
 .contact-info p{ font-weight:400; letter-spacing:1px; margin:0;}
@@ -556,6 +556,7 @@ footer{ width:100%; float:left;}
 .contact-form #success p, #error p { float:left;}
 .contact-form #contact .error{ width:100%; color:red;}
 .contact-form #error p {color:#c0392b}	
+
 
 
 
@@ -590,7 +591,7 @@ footer{ width:100%; float:left;}
 .features-list{width:100%; float:left; padding:80px 0;}
 .features-list ul{ width:100%; float:left;}
 .features-list ul li{ width:100%; float:left; margin:6px 0;}
-.features-list ul li:before{content:''; width:6px; height:1px; background:#ee3643; float:left; margin-top:10px; margin-right:10px;}
+.features-list ul li:before{content:''; width:6px; height:1px; background:#000; float:left; margin-top:10px; margin-right:10px;}
 
 
 
@@ -601,7 +602,7 @@ footer{ width:100%; float:left;}
 .services p{ line-height:24px; font-size:16px; opacity:0.6; font-weight:300; letter-spacing:1px;}
 .services h4{ font-family: inherit; font-size:16px; margin-bottom:20px; letter-spacing:2px;font-weight: 600;}
 .services i{ font-size:40px; margin-bottom:30px; position:relative; display:block;}
-.services i:after{content:''; width:50px; height:1px; background:#ee3643; position:absolute; left:0; bottom:-10px;}
+.services i:after{content:''; width:50px; height:1px; background:#000; position:absolute; left:0; bottom:-10px;}
 .services i:before{ margin:0;}
 .services .margin-bottom{ margin-bottom:40px;}
 
@@ -611,8 +612,8 @@ footer{ width:100%; float:left;}
 /* SERVICES LIST */
 .services-list{ width:100%; float:left; padding:50px 0;}
 .services-list h4{ font-weight:800; font-size:14px; margin-bottom:40px; position:relative; letter-spacing:3px;}
-.services-list h4:after{content:''; width:40px; height:3px; background:#ee3643; position:absolute; left:0; bottom:-22px;}
-.services-list p{font-weight:300; letter-spacing:1px;}
+.services-list h4:after{content:''; width:40px; height:3px; background: #000; position:absolute; left:0; bottom:-22px;}
+.services-list p{font-weight:300; letter-spacing:1px;text-align: justify;}
 .services-list ul{ width:100%; float:left; margin:10px 0;}
 .services-list ul li{ width:100%; float:left; line-height:24px; font-weight:300;}
 .services-list ul li:before{content:''; width:6px; height:1px; background:#ee3643; float:left; margin-top:10px; margin-right:10px;}
@@ -637,7 +638,9 @@ footer{ width:100%; float:left;}
 }
 .process .video video{ width:100%; float:left; position:absolute;}
 .process .title-box{ color:#cbcbc9;}
-.process .numbers{ font-size:50px; color:#fff; float:left; font-family:jaapokki; margin-right:10px; padding-right:10px; border-right:1px dotted #666;}
+.process .numbers{ font-size:30px; color:#fff; float:left; 
+	/* font-family:jaapokki; */
+	 margin-right:10px; padding-right:10px; border-right:1px dotted #666;}
 .process .steps{font-family: 'inherit'; color:#fff; margin:0; font-size:22px; margin-top:10px;letter-spacing: 3px;}
 .process p{ color:#666;}
 
@@ -647,8 +650,8 @@ footer{ width:100%; float:left;}
 /* WAVE THINGS */
 .wave-things{ width:100%; float:left; padding:100px 0;}
 .wave-things h4{ font-weight:800; font-size:14px; margin-bottom:40px; position:relative; letter-spacing:3px;}
-.wave-things h4:after{content:''; width:50px; height:1px; background:#ee3643; position:absolute; left:0; bottom:-22px;}
-.wave-things p{font-weight:300; letter-spacing:1px;}
+.wave-things h4:after{content:''; width:50px; height:1px; background:#fff; position:absolute; left:0; bottom:-22px;}
+.wave-things p{font-weight:300; letter-spacing:1px;text-align: justify;}
 
 
 
@@ -743,7 +746,7 @@ footer .sub-footer ul li a{ float:left; font-size:12px; font-weight:700; color:#
 .showcase h2{ font-size:60px;}
 .showcase .portfolio-masonry li{ width:100% !important;}
 .quote .columms{ 
-	/* width:100%; */
+	width:100%;
 }
 .features-list ul{ margin-bottom:40px}
 .features-list ul li{ font-size:14px;}

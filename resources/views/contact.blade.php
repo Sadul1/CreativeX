@@ -70,7 +70,7 @@
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 450px 0px 0px 0px;">creative start</h3>
+        <h3 style="padding: 390px 0px 0px 0px;">creative start</h3>
         <p>Your step to start the journey with us , will move your brand future to the next level.</p>
         <!--<img src="images/icon-mouse.png" alt="Image">-->
         </div>
@@ -178,7 +178,7 @@
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
-      <h4>HAPPY CLIENTS</h4>
+      <h4>OUR BRANDS</h4>
       </div>
 
       

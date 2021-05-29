@@ -44,6 +44,9 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+
+
 </head>
 <body>
 <div class="loading">
@@ -77,7 +80,7 @@
     <div class="inner">
       <div class="container">
         <h3 style="padding: 390px 0px 0px 0px;">creative concepts</h3>
-        <p>We are a creative design agency that brings ambitious brands to the next level by transforming their digital business.</p>
+        <p style="font-size: 17px;">We are a creative design agency that brings ambitious brands to the next level by transforming their digital business.</p>
         <!--<img src="images/icon-mouse.png" alt="Image">-->
         
         </div>
@@ -149,6 +152,8 @@
   </section>
   <!-- end process -->
 
+  
+
   <section class="wave-things" style="background:#008B8B;">
     <div class="container">
       <div class="row">
@@ -185,13 +190,9 @@
   
   
   <!-- end about -us -->
- <section class="quote wow fadeInUp" data-wow-delay="0.5s" style="height: 500px;background: #000;">
-    <div class="columms background-image" style="background: url(../images/bolt.jpg) no-repeat;">
+  <section class="quote wow fadeInUp" data-wow-delay="0.5s">
+    <div class="columms background-image">
       <div class="table">
-        <div class="inner">
-          <h2><span></span><br></h2>
-        </div>
-          <!-- end inner -->
       </div>
       <!-- end table -->
     </div>
@@ -199,8 +200,8 @@
     <div class="columms">
       <div class="table">
         <div class="inner">
-          <blockquote>"There are better starters than me , but i'm a strong finisher."</blockquote>
-          <h3>- Usain Bolt -</h3>
+          <blockquote>"Being regular is sometimes boring & unproductive. Let's play some unorthodox strokes to go viral & win."</blockquote>
+          <h3>- Dilscoop -</h3>
         </div>
         <!-- end inner -->
       </div>
@@ -210,11 +211,12 @@
   </section>
   <!-- end quote -->
 
+
   <section class="logos">
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
-      <h4>HAPPY CLIENTS</h4>
+      <h4>OUR BRANDS</h4>
       </div>
 
       

@@ -204,13 +204,9 @@
   </section>
 
   <!-- end about -us -->
- <section class="quote wow fadeInUp" data-wow-delay="0.5s" style="height: 500px;background: #000;">
+  <section class="quote wow fadeInUp" data-wow-delay="0.5s">
     <div class="columms background-image" style="background: url(../images/bolt.jpg) no-repeat;">
       <div class="table">
-        <div class="inner">
-          <h2><span></span><br></h2>
-        </div>
-          <!-- end inner -->
       </div>
       <!-- end table -->
     </div>
@@ -228,44 +224,13 @@
     <!-- end columms --> 
   </section>
   <!-- end quote -->
-   <!-- <section class="team-members wow fadeInUp" data-wow-delay="0.5s">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-4 member">
-          <div class="member-info">
-            <h3>JESSICA MCLOREN</h3>
-            <span>CREATIVE COPYWRITER</span> </div>
-          
-          <figure> <img src="images/team-member1.jpg" alt="Image"> </figure>
-        </div>
-        
-        <div class="col-md-4 member">
-          <div class="member-info">
-            <h3>CHRIS WILLAM</h3>
-            <span>CREATIVE ART DIRECTOR</span> </div>
-          
-          <figure> <img src="images/team-member2.jpg" alt="Image"> </figure>
-        </div>
-        
-        <div class="col-md-4 member">
-          <div class="member-info">
-            <h3>MELISSA CARTER</h3>
-            <span>FRONT-END DEVELOPER</span> </div>
-         
-          <figure> <img src="images/team-member3.jpg" alt="Image"> </figure>
-        </div>
-        
-      </div>
-     
-    </div>
-    
-  </section> -->
+  
   <!-- end team-members -->
   <section class="logos">
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
-      <h4>HAPPY CLIENTS</h4>
+      <h4>OUR BRANDS</h4>
       </div>
 
       

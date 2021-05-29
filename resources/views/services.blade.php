@@ -195,7 +195,7 @@
     <!-- end container -->
   </section>
   <!-- end services -->
-  <section class="features-list">
+  <section class="features-list" style="background: #40E0D0;">
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
@@ -284,7 +284,7 @@
     <div class="container">
       <div class="row">
       <div class="col-xs-12">
-      <h4>HAPPY CLIENTS</h4>
+      <h4>OUR BRANDS</h4>
       </div>
 
       
