@@ -54,8 +54,8 @@
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 390px 0px 0px 0px;">creative start</h3>
-        <p>Your step to start the journey with us , will move your brand future to the next level.</p>
+        <h3 style="padding: 450px 0px 0px 0px;white-space: nowrap; font-size: 50px;">creative start</h3>
+        <p style="font-size: 15px;">Your step to start the journey with us, will move your brand future to the next level.</p>
         <!--<img src="images/icon-mouse.png" alt="Image">-->
         </div>
       <!-- end container --> 
@@ -79,17 +79,20 @@
             <div class="col-md-4 col-sm-4 text-right">
               <h4>ADDRESS</h4>
               <span>No.29, Old Quarry Road,<br> Mount Lavinia,<br>
-              Sri Lanka.</span> </div>
+              Sri Lanka.</span> <br><br> 
+            </div>
             <!-- end col-4 -->
             <div class="col-md-4 col-sm-4 text-right">
               <h4>PHONES</h4>
               <span><a href="tel:+94773-610683">0773-610683<br>
               <a href="tel:+94712-111114">0712-111114 <br>
-              <a href="tel:+94117-935945">0117-935945</span> </div>
+              <a href="tel:+94117-935945">0117-935945 <br><br></span> 
+            </div>
             <!-- end col-4 -->
             <div class="col-md-4 col-sm-4 text-right">
               <h4>E-MAIL</h4>
-              <span><a href="mailto: hello@creativex.lk">hello@creativex.lk</a></span> </div>
+              <span><a href="mailto: hello@creativex.lk">hello@creativex.lk</a></span>
+            </div>
             <!-- end col-4 --> 
           </div>
           <!-- end row --> 

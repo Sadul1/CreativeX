@@ -60,8 +60,8 @@
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 390px 0px 0px 0px; font-size: 60px;">creative solutions</h3>
-        <p>We transform your craziest ideas into perfect designs which will bring business to you.</p>
+        <h3 style="padding: 390px 0px 0px 0px; white-space: nowrap;font-size: 40px;">creative solutions</h3>
+        <p style="font-size: 14px;">We transform your craziest ideas into perfect designs which will bring business to you.</p>
       </div>
       <!-- end container --> 
     </div>

@@ -63,8 +63,8 @@
   <div class="table">
     <div class="inner">
       <div class="container">
-        <h3 style="padding: 390px 0px 0px 0px;">creative concepts</h3>
-        <p style="font-size: 17px;">We are a creative design agency that brings ambitious brands to the next level by transforming their digital business.</p>
+        <h3 style="padding: 390px 0px 0px 0px;white-space: nowrap; font-size: 45px;">creative concepts</h3>
+        <p style="font-size: 16px;">We are a creative design agency that brings ambitious brands to the next level by transforming their digital business.</p>
         <!--<img src="images/icon-mouse.png" alt="Image">-->
         
         </div>
@@ -110,7 +110,7 @@
         </div>
         <!-- end col-12 -->
         <div class="col-md-3 wow fadeIn" data-wow-delay="0.05s"> <span class="numbers" style="color: #fff;">1</span>
-          <h5 class="steps" style="white-space: nowrap;color: #fff;">Opportunity  Analysis</h5>
+          <h5 class="steps" style="color: #fff;">Opportunity  Analysis</h5>
           <p style="color: #fff;">For growth of specific KPIs. </p>
         </div>
         <!-- end col-3 -->

@@ -71,7 +71,7 @@
     <div class="inner">
       <div class="container">
         <h3 style="padding: 430px 0px 0px 0px; font-size: 60px;">creative agency</h3>
-        <p style="font-size: 17px;">We are a creative design agency that brings ambitious brands to the next level by transforming their <span style="white-space: nowrap;">digital business.<span></p>
+        <p style="font-size: 14px;font-weight: 500;">We are a creative design agency that brings ambitious brands to the next level by transforming their <span style="white-space: nowrap;">digital business.<span></p>
         <!--<img src="images/icon-mouse.png" alt="Image">-->
         
         </div>
